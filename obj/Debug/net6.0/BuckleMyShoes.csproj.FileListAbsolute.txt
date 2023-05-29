@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\BuckleMyShoes.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\BuckleMyShoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\BuckleMyShoes.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\BuckleMyShoes.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\BuckleMyShoes.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\bin\Debug\net6.0\BuckleMyShoes.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\bin\Debug\net6.0\BuckleMyShoes.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\BuckleMyShoes.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\refint\BuckleMyShoes.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BuckleMyShoes\obj\Debug\net6.0\ref\BuckleMyShoes.dll
